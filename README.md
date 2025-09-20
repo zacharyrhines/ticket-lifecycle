@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Details:** Describe the issue briefly (e.g., "The entire online banking system is down, preventing users from accessing their accounts.")
 
 <p>
-<img src="https://imgur.com/hSdHs1T.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle1" src="https://github.com/user-attachments/assets/0d0719aa-1d42-4889-aed9-9dcae340420b"/>
 </p>
 
 <h3>2.) Observe Ticket Properties as Help Desk Agent</h3>
@@ -44,7 +44,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Assigned To:** Not yet assigned.
  
 <p>
-<img src="https://imgur.com/t4yCX2B.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle2" src="https://github.com/user-attachments/assets/903a5223-8a44-498b-9e5b-24de7ed49577" />
 </p>
 
 <h3>3.) Set Ticket Properties</h3>
@@ -54,7 +54,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Assigned To:** Online Banking Department.
 
 <p>
-<img src="https://imgur.com/XWmKN7q.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle3" src="https://github.com/user-attachments/assets/1515a041-2dbf-4130-b993-cc56013c3ef0" />
 </p>
 
 <h3>4.) Work the Ticket to Completion</h3>
@@ -64,11 +64,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
-<img src="https://imgur.com/cUhLwqL.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle4" src="https://github.com/user-attachments/assets/bce1339a-025a-4c5a-b0b9-d2c305001624" />
 </p>
 
 <p>
-<img src="https://imgur.com/OA3iMSL.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle5" src="https://github.com/user-attachments/assets/271a3060-640e-452e-956a-32f1e8a6f8c0" />
 </p>
 
 ---
